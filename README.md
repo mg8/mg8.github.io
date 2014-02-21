@@ -1,14 +1,16 @@
 =============================
 
-Página Personal
+Personal Page
 
-www.galvis.com
+www.galvis.co
 
 =============================
 
+License: MIT/GPL
+
 Credits
 
-Variation of: https://github.com/weightshift/The-Personal-Page
+Original version: https://github.com/weightshift/The-Personal-Page
 Created by Naz Hamid
 
 
